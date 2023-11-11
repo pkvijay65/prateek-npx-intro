@@ -1,0 +1,15 @@
+{
+  "name": "hello-prateek",
+  "version": "1.0.2",
+  "description": "A simple npm package to introduce me to the world via our lovely npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hello-prateek": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
